@@ -17,19 +17,19 @@ class CommandLineOptions {
     boolean debug = false;
 
     @Parameter(names = {"--service-port"})
-    Integer servicePort = 4567;
+    Integer servicePort = 5432;
 
     @Parameter(names = {"--database"})
-    String database = "blog";
+    String database = "bmu0peel5cts9gz";
 
     @Parameter(names = {"--db-host"})
-    String dbHost = "localhost";
+    String dbHost = "bmu0peel5cts9gz.postgresql.clvrcld.net";
 
     @Parameter(names = {"--db-username"})
-    String dbUsername = "blog_owner";
+    String dbUsername = "us13lxvoqyixdxclqdft";
 
     @Parameter(names = {"--db-password"})
-    String dbPassword = "sparkforthewin";
+    String dbPassword = "mGtT9SolEd7a2y2uDJId";
 
     @Parameter(names = {"--db-port"})
     Integer dbPort = 5432;

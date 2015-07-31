@@ -1,0 +1,5 @@
+  {
+    "deploy": {
+      "goal": "-Dexec.args='--db-host myDBServer --db-port 5432'"
+    }
+  }
