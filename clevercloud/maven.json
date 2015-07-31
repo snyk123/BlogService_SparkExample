@@ -1,5 +1,5 @@
   {
     "deploy": {
-      "goal": ""
+      "goal": "mvn exec:java"
     }
   }
